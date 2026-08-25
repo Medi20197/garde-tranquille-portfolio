@@ -22,16 +22,6 @@ Toutes les informations visibles dans la démonstration sont fictives.
 
 React, TypeScript, Node.js, Express, MongoDB et Docker.
 
-## Confidentialité
-
-Ce dépôt ne contient :
-
-- aucun nom, matricule, numéro de téléphone ou compte réel ;
-- aucune donnée ou sauvegarde de production ;
-- aucun secret, fichier d’environnement ou identifiant d’accès ;
-- aucun algorithme, règle d’affectation ou code métier privé ;
-- aucune information permettant d’identifier l’établissement.
-
 ## Consulter la vitrine
 
 Ouvrez `index.html` dans un navigateur ou activez GitHub Pages sur la racine du dépôt.
