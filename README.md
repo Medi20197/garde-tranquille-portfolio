@@ -24,6 +24,7 @@ React, TypeScript, Node.js, Express, MongoDB et Docker.
 
 ## Consulter la vitrine
 
-Ouvrez `index.html` dans un navigateur ou activez GitHub Pages sur la racine du dépôt.
+Ouvrez `index.html` pour consulter l’étude de cas. La page `demo.html` propose une
+démonstration interactive distincte utilisant exclusivement des données fictives.
 
 © 2026 Medi20197. Vitrine portfolio — tous droits réservés.
